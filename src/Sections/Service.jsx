@@ -134,7 +134,7 @@ useGSAP(() => {gsap.from('.cta-button', {
 
         <button className="flex mx-auto mt-16 border-0 py-2 px-8 focus:outline-none">
     <a
-  href="tel:+911234567890"
+ 
   className="cta-button flex mx-auto mt-16 bg-gradient-to-r from-indigo-500 to-purple-500 text-white font-semibold py-3 px-10 rounded-full text-lg shadow-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:from-indigo-600 shadow-indigo-600 hover:to-purple-600 focus:outline-none"
 >
   Call to Action
