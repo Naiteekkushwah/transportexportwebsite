@@ -60,7 +60,7 @@ const Navbar = () => {
       className="fixed top-0 left-0 w-full z-30 bg-[rgba(0,0,0,0.3)] text-white"
     >
       <div className="container mx-auto flex items-center justify-between p-1">
-        <img className="h-10 logo" src="123.png" alt="Logo" />
+        <img className="h-10 logo" src="/123.png" alt="Logo" />
 
         <button
           className="md:hidden focus:outline-none"
