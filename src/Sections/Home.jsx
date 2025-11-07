@@ -46,8 +46,8 @@ const Home = () => {
 
         {/* Background Image */}
         <img
-          src="public/upscalemedia-transformed-(1).webp"
-          alt=""
+          src="/upscalemedia-transformed-(1).webp"
+          alt="123"
           className="absolute inset-0 w-full h-full object-cover z-0"
         />
 
